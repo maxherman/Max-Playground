@@ -12,6 +12,7 @@ bcmath
 calendar
 ctype
 date
+hello world!
 ereg
 filter
 ftp
@@ -187,6 +188,15 @@ Module: php_mysqli.dll
 Module: php_pdo_firebird.dll
 ===========================
 	msvcr110.dll
+
+Module: php_pdo_mysql.dll
+===========================
+	msvcr110.dll
+
+Module: php_pdo_oci.dll
+===========================
+	msvcr110.dll
+
 
 Module: php_pdo_mysql.dll
 ===========================
